@@ -1,24 +1,13 @@
-[submodule "iot-suite-server"]
-	path = iot-suite-server
-	url = https://github.com/tuya/iot-suite-server
-[submodule "iot-suite-portal"]
-	path = iot-suite-portal
-	url = https://github.com/tuya/iot-suite-portal
-[submodule "iot-suite-portal-device"]
-	path = iot-suite-portal-device
-	url = https://github.com/tuya/iot-suite-portal-device
-[submodule "iot-suite-portal-asset"]
-	path = iot-suite-portal-asset
-	url = https://github.com/tuya/iot-suite-portal-asset
-[submodule "tuya-connector-nodejs"]
-	path = tuya-connector-nodejs
-	url = https://github.com/tuya/tuya-connector-nodejs
+[submodule "iot-server"]
+	path = iot-server
+	url = https://github.com/tuya/iot-server
+[submodule "iot-portal"]
+	path = iot-portal
+	url = https://github.com/tuya/iot-portal
 [submodule "tuya-connector"]
 	path = tuya-connector
 	url = https://github.com/tuya/tuya-connector
 [submodule "connector"]
 	path = connector
 	url = https://github.com/tuya/connector
-[submodule "tuya-connector-go"]
-	path = tuya-connector-go
-	url = https://github.com/tuya/tuya-connector-go
+
