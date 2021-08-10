@@ -6,9 +6,13 @@ A submodule repository for distributing Tuya SaaS Development framework source c
 
 ## What is SaaS Development Framework?
 
-Based on Tuya OpenAPI, the SaaS Development Framework is integrated with a variety of IoT SaaS features and provides a full set of frontend and backend solution code. You can leverage the framework to quickly build SaaS applications suitable for multiple industries and substantially improve the delivery efficiency and price performance.
+Based on Tuya OpenAPI and [Tuya IoT Platform](https://iot.tuya.com/?_source=b158d0b113130dcd81fff1813a98a27a), the SaaS Development Framework is integrated with a variety of IoT SaaS features and provides a full set of frontend and backend solution code. You can leverage the framework to quickly build SaaS applications suitable for multiple industries and substantially improve the delivery efficiency and price performance.
 
 Currently, the framework integrates basic functional modules such as user login, role permissions, device management, device control, and data dashboard. Also, it provides a React frontend user interface by using Ant Design. After development simply based on the source code, your product will be good to go.
+## [Quick experience demo for SaaS development framework](https://iot.tuya.com/cloud/?code=1234&_source=4d1121cb554dc3abc8fe1d7e7e3bd8ac)
+One click to preview the functionalities and devices management interface in the [SaaS Framework Demo](https://iot.tuya.com/cloud/?code=1234&_source=4d1121cb554dc3abc8fe1d7e7e3bd8ac).Try it now!
+![image](https://user-images.githubusercontent.com/85163056/128856984-7cf04d9a-875b-498f-8669-34fd0b6850a1.png)
+
 
 ## Quick start
 
