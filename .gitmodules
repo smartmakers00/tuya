@@ -7,7 +7,4 @@
 [submodule "tuya-connector"]
 	path = tuya-connector
 	url = https://github.com/tuya/tuya-connector
-[submodule "connector"]
-	path = connector
-	url = https://github.com/tuya/connector
 
